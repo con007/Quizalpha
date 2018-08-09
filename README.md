@@ -1,2 +1,2 @@
-# Quizalpha
+# QuizAlpha
 Offline Quiz System
